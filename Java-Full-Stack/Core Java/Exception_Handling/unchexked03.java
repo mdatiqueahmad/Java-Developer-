@@ -1,0 +1,13 @@
+public class unchexked03 {
+
+    public static void main(String[] args) {
+       try {
+           int arr[]= new int[-5];
+           System.out.println(arr.length);
+       }
+        catch (NegativeArraySizeException e){
+            System.out.println("negative array");
+        }
+
+    }
+}
