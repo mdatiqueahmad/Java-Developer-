@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Core Java/WrapperDemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Core Java/access_modifier" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Core Java/non-accessmodifier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Advance java/JDBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Core Java/Advance Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Full-Stack/Advance java/JDBC01/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
